@@ -67,7 +67,7 @@ using TerminsPrøven.Models;
             WriteLiteral("<!DOCTYPE html>\r\n<html lang=\"en\">\r\n");
             EndContext();
             BeginContext(67, 904, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "43b17a5a3e35427cabedc83707dbe373", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "be45d3de7951443698ff4dff110b1416", async() => {
                 BeginContext(73, 891, true);
                 WriteLiteral(@"
     <title>Contact</title>
@@ -100,7 +100,7 @@ using TerminsPrøven.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(973, 11092, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4206fef5ef5d4cf1a870990907f8980b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "58d526d84e694ccea5fd6208976ec074", async() => {
                 BeginContext(979, 3540, true);
                 WriteLiteral(@"
 
@@ -230,7 +230,7 @@ WriteAttributeValue("", 5088, Url.Action("Contact", "Home"), 5088, 30, false);
                 WriteLiteral("     <div class=\"search_content d-flex flex-row align-items-center justify-content-end\">\r\n                                                ");
                 EndContext();
                 BeginContext(6280, 426, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3841dd50d9eb4f11ba7ebb1351a89994", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae743daffcbb413a89dd513b016990cb", async() => {
                     BeginContext(6354, 345, true);
                     WriteLiteral(@"
                                                     <input type=""text"" class=""search_container_input"" placeholder=""Search"" required=""required"">
@@ -314,7 +314,7 @@ WriteAttributeValue("", 5088, Url.Action("Contact", "Home"), 5088, 30, false);
                 WriteLiteral("      ");
                 EndContext();
                 BeginContext(8760, 729, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3b424b0fc4e84ac98565a3bbc6f0c1f7", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7a63d8c175eb4933b860f52b424467fa", async() => {
                     BeginContext(8816, 666, true);
                     WriteLiteral(@"
                                 <input type=""text"" class=""contact_input"" placeholder=""Name"" required=""required"">
