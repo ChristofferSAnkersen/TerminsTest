@@ -97,7 +97,7 @@ using TerminsPrøven.Models;
             WriteLiteral("\r\n</h3>\r\n\r\n<p>\r\n    ");
             EndContext();
             BeginContext(413, 46, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5968ec05b283408c8888ebac59f28da7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9fae4176b23a4ce498913d216c5e65b2", async() => {
                 BeginContext(436, 19, true);
                 WriteLiteral("Create New Booking!");
                 EndContext();
@@ -238,7 +238,7 @@ using TerminsPrøven.Models;
             WriteLiteral("\r\n                </td>\r\n                \r\n                <td>\r\n                    ");
             EndContext();
             BeginContext(1838, 53, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6b8b7067c2c14a5997a3521e1cfac6ea", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c4eb1af409d6493091ea681029e35673", async() => {
                 BeginContext(1883, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -273,7 +273,7 @@ using TerminsPrøven.Models;
             WriteLiteral(" |\r\n                    ");
             EndContext();
             BeginContext(1915, 59, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "52ecb8ab9f384e0a9d4856d6e781754f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a30e7bf094d84f298d5d24ad134be2ef", async() => {
                 BeginContext(1963, 7, true);
                 WriteLiteral("Details");
                 EndContext();
@@ -308,7 +308,7 @@ using TerminsPrøven.Models;
             WriteLiteral(" |\r\n                    ");
             EndContext();
             BeginContext(1998, 57, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "96c0509dc8cc4694a3c78a9badad6e1c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "804b415d0d9b4ee08c9222b4b6c31671", async() => {
                 BeginContext(2045, 6, true);
                 WriteLiteral("Delete");
                 EndContext();

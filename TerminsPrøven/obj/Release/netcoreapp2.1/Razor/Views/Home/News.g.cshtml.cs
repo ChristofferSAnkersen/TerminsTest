@@ -59,7 +59,7 @@ using TerminsPrøven.Models;
             WriteLiteral("<!DOCTYPE html>\r\n<html lang=\"en\">\r\n");
             EndContext();
             BeginContext(35, 897, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "627981ae90e14fc9af7f4b1df5704fa9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ad03d4bdf07f4093bd5df1db24374416", async() => {
                 BeginContext(41, 884, true);
                 WriteLiteral(@"
     <title>News</title>
@@ -93,7 +93,7 @@ using TerminsPrøven.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(934, 22409, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8eece0f2e5d1458da67db52d15b6fc9c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d4a12b6bfd3943ddad9fe72f8a394c38", async() => {
                 BeginContext(940, 5757, true);
                 WriteLiteral(@"
 
@@ -262,7 +262,7 @@ WriteAttributeValue("", 7266, Url.Action("Contact", "Home"), 7266, 30, false);
                 WriteLiteral("     <div class=\"search_content d-flex flex-row align-items-center justify-content-end\">\r\n                                                ");
                 EndContext();
                 BeginContext(8458, 426, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1fdd250774f4438683a8a0c5e026c541", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fa48c8f37325495da117e296cc02d323", async() => {
                     BeginContext(8532, 345, true);
                     WriteLiteral(@"
                                                     <input type=""text"" class=""search_container_input"" placeholder=""Search"" required=""required"">
