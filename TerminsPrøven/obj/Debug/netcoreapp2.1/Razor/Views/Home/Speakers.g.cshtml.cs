@@ -65,7 +65,7 @@ using TerminsPrøven.Models;
             WriteLiteral("<!DOCTYPE html>\r\n<html lang=\"en\">\r\n");
             EndContext();
             BeginContext(67, 907, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6eeee679aa864c2c9be4669686db2415", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2fd193cf2cb74d038f92822200b119f1", async() => {
                 BeginContext(73, 894, true);
                 WriteLiteral(@"
     <title>Speakers</title>
@@ -98,7 +98,7 @@ using TerminsPrøven.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(976, 13678, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "87d56027fbcd4dfda317796bc457fa17", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "40b6fbeb2fb04f869e5fe3b8910543df", async() => {
                 BeginContext(982, 3645, true);
                 WriteLiteral(@"
 
@@ -238,7 +238,7 @@ WriteAttributeValue("", 5672, Url.Action("Index","Booking"), 5672, 30, false);
                                                 ");
                 EndContext();
                 BeginContext(6415, 426, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d106790880464e9b8de391a138a47262", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5e5e40651d8f4b1597237c8855d57595", async() => {
                     BeginContext(6489, 345, true);
                     WriteLiteral(@"
                                                     <input type=""text"" class=""search_container_input"" placeholder=""Search"" required=""required"">

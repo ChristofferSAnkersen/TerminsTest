@@ -93,3 +93,4 @@ C:\Users\TyrenDK\source\repos\TerminsTest\TerminsPrøven\obj\Debug\netcoreapp2.1
 C:\Users\TyrenDK\source\repos\TerminsTest\TerminsPrøven\obj\Debug\netcoreapp2.1\TerminsPrøven.dll
 C:\Users\TyrenDK\source\repos\TerminsTest\TerminsPrøven\obj\Debug\netcoreapp2.1\TerminsPrøven.pdb
 C:\Users\TyrenDK\source\repos\TerminsTest\TerminsPrøven\obj\Debug\netcoreapp2.1\TerminsPrøven.csproj.CopyComplete
+C:\Users\TyrenDK\source\repos\TerminsTest\TerminsPrøven\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
